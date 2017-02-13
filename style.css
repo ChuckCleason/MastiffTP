@@ -1,0 +1,23 @@
+h3{
+    font-size: 1.5em;
+    font-variant: small-caps;
+    font-family: 'Fjalla One';
+}
+p{
+	text-align: center;
+	font-family: 'Shadows Into Light';
+	font-size: 20px;
+}
+div.theAffNum{
+    width: 131px; 
+    height: 19px;
+    border: 2px solid silver;
+    padding: 2px;
+}
+div.answerSpace{
+	font-family: 'Fjalla One';
+	font-size: 20px;
+}
+body{
+   background-color: #487fd6; 
+}
