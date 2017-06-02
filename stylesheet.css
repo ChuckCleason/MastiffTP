@@ -22,7 +22,7 @@ body{
                     word-spacing: 2px;
                 }
                 .bottomleft {
-                    position: absolute;
+                    position: relative;
                     bottom: 0px;
                     left: 16px;
                     font-size: 14px;
