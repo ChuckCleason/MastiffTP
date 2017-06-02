@@ -7,39 +7,37 @@ img{
     display: block;
     border: 1px solid #ddd;
     margin: auto;
-    opacity: .5%;
+
 }
 body{
-                    background: purple;
-                    background-size: cover;
-                    background-position: center;
-                }
-                h1{
-                    text-align: center;
-                    font-family: Fjalla One;
-                    font-size: 40px;
-                    color: #002d77;
-                    word-spacing: 2px;
-                }
-                .bottomleft {
-                    position: relative;
-                    bottom: 0px;
-                    left: 16px;
-                    font-size: 14px;
-                    font-family: Fjalla One;
-                }
-                h2{
-                    text-align: center;
-                    font-family: Shadows Into Light;
-                    color: #00487c;
-                    font-size: 25px;
-                    word-spacing: 0px;
-                }
-                p{
-                    text-align: left;
-                    font-family: Fjalla One;
-                    color: #250689;
-                    font-size: 18px;
+    background: purple;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    text-align: center;
+    font-family: Fjalla One;
+    font-size: 40px;
+    color: #002d77;
+}
+.bottomleft {
+    position: relative;
+    bottom: 0px;
+    left: 16px;
+    font-size: 14px;
+    font-family: Arial;
+}
+h2{
+    text-align: center;
+    font-family: Shadows Into Light;
+    color: #00487c;
+    font-size: 25px;
+}
+p{
+    text-align: left;
+    font-family: Fjalla One;
+    color: #250689;
+    font-size: 18px;
                 }
                 li{
                     font-family: Arial;
