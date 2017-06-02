@@ -4,7 +4,9 @@
     padding: 10px 20px;
 }
 .nice{
-    text-align: center;
+    display: inline;
+    padding: 0px 20px 0px 20px;
+    font-size: 16px;
 }
 img{
     display: block;
@@ -42,10 +44,15 @@ p{
     color: #250689;
     font-size: 18px;
 }
+ul{
+    padding: 2px;
+    
+}
 li{
     font-family: Arial;
     color: #1d1d91;
     font-size: 15px;
+    
 }
 input{
     padding: 10px;
@@ -54,4 +61,8 @@ input{
 input[type="Submit"] {
     background: #2f82d6;
     color: #38c942;
+}
+header{
+    text-align: center;
+    background-color: rgba(0,0,0,.25);
 }
