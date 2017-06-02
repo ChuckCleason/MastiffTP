@@ -3,6 +3,9 @@
     text-align: center;
     padding: 10px 20px;
 }
+.nice{
+    text-align: center;
+}
 img{
     display: block;
     border: 1px solid #ddd;
@@ -38,17 +41,17 @@ p{
     font-family: Fjalla One;
     color: #250689;
     font-size: 18px;
-                }
-                li{
-                    font-family: Arial;
-                    color: #1d1d91;
-                    font-size: 15px;
-                }
-                input{
-                    padding: 10px;
-                    font-family: Shadows Into Light;
-                }
-                input[type="Submit"] {
-                    background: #2f82d6;
-                    color: #38c942;
+}
+li{
+    font-family: Arial;
+    color: #1d1d91;
+    font-size: 15px;
+}
+input{
+    padding: 10px;
+    font-family: Shadows Into Light;
+}
+input[type="Submit"] {
+    background: #2f82d6;
+    color: #38c942;
 }
