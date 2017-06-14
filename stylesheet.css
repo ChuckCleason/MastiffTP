@@ -56,17 +56,31 @@ li{
     font-family: Arial;
     color: #1d1d91;
     font-size: 15px;
-    
+    width: 1000px;
+    padding: 10px;
+    margin: 0 auto;
 }
 input{
     padding: 10px;
     font-family: Shadows Into Light;
+    margin: 0 auto;
 }
 input[type="Submit"] {
     background: #2f82d6;
     color: #38c942;
+    margin: 0 auto;
+
 }
 header{
-    text-align: center;
+    
     background-color: rgba(0,0,0,.25);
+}
+h3 {
+    font-family: Fjalla One;
+    width: 1000px;
+    padding: 10px;
+    margin: 0 auto;
+    color: #1d1d91;
+    font-size: 29px;
+    text-align: center;
 }
