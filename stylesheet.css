@@ -9,6 +9,10 @@
     font-size: 17px;
     text-align: center;
 }
+.awesomeness {
+    color: rgba(255,255,255,1);
+    background: -webkit-linear-gradient(top, rgba(0,0,0,.7), rgba(0,0,0,0));
+}
 img{
     display: block;
     border: 2px solid #ddd;
