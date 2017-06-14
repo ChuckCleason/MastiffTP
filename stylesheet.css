@@ -6,17 +6,17 @@
 .nice{
     display: inline;
     padding: 0px 20px 0px 20px;
-    font-size: 16px;
+    font-size: 17px;
     text-align: center;
 }
 img{
     display: block;
-    border: 1px solid #ddd;
+    border: 2px solid #ddd;
     margin: auto;
 
 }
 body{
-    background: purple;
+    background: #66b3ff;
     background-size: cover;
     background-position: center;
 }
@@ -47,6 +47,7 @@ p{
     width: 1000px;
     padding: 10px;
     margin: 0 auto;
+    line-height: 30px;
 }
 ul{
     padding: 2px;
@@ -64,11 +65,14 @@ input{
     padding: 10px;
     font-family: Shadows Into Light;
     margin: 0 auto;
+    text-align: center;
 }
 input[type="Submit"] {
     background: #2f82d6;
     color: #38c942;
     margin: 0 auto;
+    text-align: center;
+
 
 }
 header{
@@ -81,6 +85,6 @@ h3 {
     padding: 10px;
     margin: 0 auto;
     color: #1d1d91;
-    font-size: 29px;
+    font-size: 30px;
     text-align: center;
 }
