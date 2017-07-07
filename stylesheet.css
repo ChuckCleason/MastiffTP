@@ -2,6 +2,7 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     text-align: center;
     padding: 10px 20px;
+    border-radius: 10%;
 }
 .nice{
     display: inline;
@@ -30,7 +31,7 @@ h1{
 .bottomleft {
     position: relative;
     bottom: 0px;
-    left: 600px;
+    left: 500px;
     font-size: 14px;
     font-family: Arial;
 }
@@ -78,7 +79,7 @@ header{
     background-color: rgba(0,0,0,.25);
 }
 .shrinkydink{
-    opacity: 0;
+    opacity: 10;
 }
 h3 {
     font-family: Fjalla One;
@@ -89,11 +90,10 @@ h3 {
     font-size: 30px;
     text-align: center;
     transition: height .5s;
-    -webkit-transition: height .5s;
-    -moz-transition: height .5s;
+
 }
 .show-description h3 {
-  height: 150px;
+  height: 40px;
 }
 .show-description .shrinkydink {
   opacity: 1;
